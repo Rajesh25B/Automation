@@ -1,0 +1,10 @@
+Manual Testing a web app is like clicking a button manually to see if the form data got sent correctly.
+
+Automation Testing is like writing a script and executing it with selenium, so selenium tool automatically opens a web page and automatically clicks that button.
+
+Selenium is a browser-automation tool. Selenium supports major browsers like chrome, firefox.
+
+To automate Chrome browser, we need chrome driver. (place it in venv top level dir).
+
+Running Selenium in a headless mode:
+Headless mode is a mode that does not open browser tabs too often when using selenium webdriver. We let selenium to work in background.

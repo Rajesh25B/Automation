@@ -1,0 +1,21 @@
+=> Automate Excel Report:
+* Create a pivot table with Python (pivot_table.py)
+
+=> Automate Excel Report: Add a barchart (add_chart.py)
+* Using the pivot table, create a barchart
+* Use library => openpyxl
+
+=> Automate Excel Report:
+* write excel formulas using python (excel_formulas.py)
+
+=> Automate Excel Report: (Format cells)
+* Add title, subtitle, change the font
+
+=> Automate Excel Report:
+* Convert pivot table to excel report
+* Keep previous scripts code(barchart,formulas, format) into a single file pivot_to_report.py
+
+=> Automate Excel Report:
+* Generate reports with single click (.py to .exe)
+* run cmd: `pyinstaller --onefile py_to_exe.py`
+* move the input excel file into dist/py_to_exe.exe file folder location

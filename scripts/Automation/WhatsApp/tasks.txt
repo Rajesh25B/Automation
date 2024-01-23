@@ -1,0 +1,6 @@
+=> Automate WhatsApp:
+* Basic automation with pywhatkit (sending msgs in WhatsApp using python)
+* pip install pywhatkit
+* web whatsapp is required
+* send individual/single msg to single number.
+* send group msg.

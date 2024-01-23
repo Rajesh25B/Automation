@@ -1,0 +1,9 @@
+=>Automate the headlines in a headless mode:
+* Headless mode is a mode that does not open browser tabs too often when using selenium webdriver. We let selenium to work in the background.
+
+=> Automate the News:
+* Prepare the scripts to be run everyday. (news.py)
+* At a specific point in time, we get all headlines automatically extracted have into .csv file by turning .py file into an executable file.
+
+=> Automate the News:
+* Schedule python script with crontab (Need review)
